@@ -1,2 +1,1 @@
-# PrepCourse-Henrry
-Repository m2 Henrry
+Este es un proyecto es una prueba de como crear un repositorio y clonarlo desde git-hub hasta mi escritorio local
